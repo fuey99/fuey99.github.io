@@ -12,6 +12,6 @@ This is Yue Hu's home on the web!
 
 ---
 
-excerpt: "<img src='/images/hy.png'>"
+img src='/images/hy.png'
 
 ---
