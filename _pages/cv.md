@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. Zhengzhou University, 2021
+* B.S. ZZU, 2021
 * M.S. UESTC, 2023
 * Ph.D Monash University, 2027 (expected)
 
 Work experience
 ======
 * 2022-2023: Research Assistant
-  * Zhejiang University
+  * ZJU
 
 
 * 2021-2022: Assistant Engineer
