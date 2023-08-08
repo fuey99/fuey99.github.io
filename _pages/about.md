@@ -9,3 +9,9 @@ redirect_from:
 ---
 
 This is Yue Hu's home on the web!
+
+---
+title: ""
+excerpt: "<br/><img src='/images/hy.png'>"
+collection: portfolio
+---
