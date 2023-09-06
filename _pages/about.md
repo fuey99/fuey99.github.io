@@ -16,6 +16,6 @@ In university, I pursued further studies in computer science and technology. Dur
 
 ---
 
-"Me: Stay curious and become an explorer in scientific mysteries.<br/><img src='/images/hy1.png'><img src='/images/hy2.png'>"
+"Me: Stay curious and become an explorer in scientific mysteries.<br/><img src='/images/hy1.png'>"
 
 ---
