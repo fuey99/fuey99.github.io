@@ -1,7 +1,7 @@
 ---
 title: "My CAT"
-excerpt: "4 cats<br/><img src='/images/1.png'><img src='/images/2.png'><img src='/images/3.png'><img src='/images/4.png'>"
+excerpt: "4 cats in Yue‘s house！<br/><img src='/images/1.png'><img src='/images/2.png'><img src='/images/3.png'><img src='/images/4.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The first gray one is Tom Cat. The second is just the fattest cat - Lotus White（莲花白）. The third one is just my first cat. His name is XueXi. The last cat called 'airplane'（灰姬）. 
