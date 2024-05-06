@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is Yue Hu's home on the web!
+I'm currently an doctoral student student in SIMPAS at Monash University under the supervision of Dr. Qijun Zheng.
 
-My name is Hu Yue, and I was born in Chengdu, Sichuan, China. I have had a strong passion for computer science from an early age. I have been a programmer since high school.
-
-In university, I pursued further studies in computer science and technology. During my graduate studies, I focused on the field of artificial intelligence.
+I'm interested in AI for CFD.
 
 ---
 
-"Me: Stay curious and become an explorer in scientific mysteries.<br/><img src='/images/hy1.png'>"
+"<br/><img src='/images/hy1.png'>"
 
 ---
